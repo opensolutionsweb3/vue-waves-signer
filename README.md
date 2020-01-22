@@ -16,7 +16,7 @@ $ npm i @opensolutions/vue-waves-signer
 
 ```js
 // add to main.js
-import VueSigner from 'vue-waves-signer'
+import VueSigner from '@opensolutions/vue-waves-signer'
 
 // production version
 Vue.use(VueSigner)
