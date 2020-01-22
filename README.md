@@ -58,4 +58,4 @@ methods: {
   }
 }
 
-```# vue-waves-signer
+```
