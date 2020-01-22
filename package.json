@@ -1,6 +1,6 @@
 {
   "name": "@opensolutions/vue-waves-signer",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "description": "Waves Signer implementation for Vue.js",
   "main": "main.js",
   "scripts": {
@@ -30,5 +30,6 @@
     "url": "https://github.com/opensolutionsweb3/vue-waves-signer/issues"
   },
   "homepage": "https://github.com/opensolutionsweb3/vue-waves-signer#readme",
-  "devDependencies": {}
+  "devDependencies": {},
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
 }
