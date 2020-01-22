@@ -9,7 +9,7 @@
 ## How to install
 
 ```
-$ npm i vue-waves-signer
+$ npm i @opensolutions/vue-waves-signer
 ```
 
 ## How to setup
