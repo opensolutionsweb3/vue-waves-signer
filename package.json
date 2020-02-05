@@ -1,6 +1,6 @@
 {
   "name": "@opensolutions/vue-waves-signer",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Waves Signer implementation for Vue.js",
   "main": "main.js",
   "scripts": {
@@ -23,8 +23,8 @@
     "url": "git+https://github.com/opensolutionsweb3/vue-waves-signer.git"
   },
   "dependencies": {
-    "@waves.exchange/provider-web": "0.0.3",
-    "@waves/signer": "0.0.6"
+    "@waves.exchange/provider-web": "^0.1.2",
+    "@waves/signer": "^0.0.8"
   },
   "bugs": {
     "url": "https://github.com/opensolutionsweb3/vue-waves-signer/issues"
