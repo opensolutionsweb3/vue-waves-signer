@@ -1,6 +1,6 @@
 {
   "name": "@opensolutions/vue-waves-signer",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "Waves Signer implementation for Vue.js",
   "main": "main.js",
   "scripts": {
