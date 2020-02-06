@@ -4,6 +4,12 @@ import Provider from '@waves.exchange/provider-web';
 const VueSigner = {
     install(Vue, options) {
         let signer = null;
+        if (!options) {
+            options = {
+                node: '',
+                provider: ''
+            }
+        }
         let nodeUrl = {
             NODE_URL: options.node ? options.node : 'https://pool.testnet.wavesnodes.com'
         };
