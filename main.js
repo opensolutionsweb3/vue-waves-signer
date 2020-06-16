@@ -11,9 +11,9 @@ const VueSigner = {
             }
         }
         let nodeUrl = {
-            NODE_URL: options.node ? options.node : 'https://pool.testnet.wavesnodes.com'
+            NODE_URL: options.node ? options.node : 'https://nodes-testnet.wavesnodes.com'
         };
-        let provider = options.provider ? options.provider : 'https://nodes-testnet.wavesnodes.com';
+        let provider = options.provider ? options.provider : 'https://testnet.waves.exchange/signer/';
         if (options.debug) {
             signer = new Signer(nodeUrl);
             signer.setProvider(new Provider(provider));
