@@ -23,8 +23,8 @@
     "url": "git+https://github.com/opensolutionsweb3/vue-waves-signer.git"
   },
   "dependencies": {
-    "@waves.exchange/provider-web": "^0.1.2",
-    "@waves/signer": "^0.0.8"
+    "@waves.exchange/provider-web": "^0.2.3",
+    "@waves/signer": "^0.1.2"
   },
   "bugs": {
     "url": "https://github.com/opensolutionsweb3/vue-waves-signer/issues"
